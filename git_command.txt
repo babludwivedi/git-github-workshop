@@ -34,16 +34,7 @@ cd Documents/
   362  git push origin master
   363  git remote -v
   364  git remote -v
-  365  git remote set-url origin https://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^C/github.com/babludwivedi/git-github-workshop.git
-  366  git remote -v
-  367  git push origin master
-  368  git remote set-url origin https://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^C@ithub.com/babludwivedi/git-github-workshop.git
-  369  git remote -v
-  370  git push origin master
-  371  git remote set-url origin https://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^C@gthub.com/babludwivedi/git-github-workshop.git
-  372  git remote -v
-  373  git remote set-url origin https://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^C@github.com/babludwivedi/git-github-workshop.git
-  374  git push origin master
+  365   374  git push origin master
   375  git push origin master
   376  ls -la
   377  history
