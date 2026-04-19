@@ -1,39 +1,5 @@
 cd Documents/
-  330  ls -la
-  331  cd git-github-workshop/
-  332  ls -la
-  333  python testing.py
-  334  cd Documents/
-  335  dir
-  336  cd git-github-workshop
-  337  ls
-  338  python testing.py
-  339  ll
-  340  ls -a
-  341  git status
-  342  git add testing.py
-  343  git status
-  344  git rm --cached testing.py
-  345  ll
-  346  git status
-  347  git commit -m "hello this test file"
-  348  git add testing.py
-  349  git commit -m "hello this test file"
-  350  git status
-  351  ls
-  352  git status
-  353  rm testing.py
-  354  git status
-  355  git restore testing.py
-  356  ll
-  357  touch git_command.txt
-  359  git remote -v
-  360  git status
-  361  git push origion master
-  362  git push origin master
-  363  git remote -v
-  364  git remote -v
-  365   374  git push origin master
-  375  git push origin master
-  376  ls -la
-  377  history
+    
+ git push origin master
+ ls -la
+ history
