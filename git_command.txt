@@ -27,7 +27,6 @@ cd Documents/
   355  git restore testing.py
   356  ll
   357  touch git_command.txt
-  358  git remote add origin https://github.com/babludwivedi/git-github-workshop.git
   359  git remote -v
   360  git status
   361  git push origion master
