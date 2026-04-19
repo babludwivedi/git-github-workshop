@@ -1,4 +1,8 @@
-cd Documents/
+
+lcalcn
+kc
+dc
+a.cd Documents/
     
  git push origin master
  ls -la
